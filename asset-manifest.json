@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Object-Detection-using-React/static/css/main.5a92d424.chunk.css",
+    "main.js": "/Object-Detection-using-React/static/js/main.c915e717.chunk.js",
+    "main.js.map": "/Object-Detection-using-React/static/js/main.c915e717.chunk.js.map",
+    "runtime-main.js": "/Object-Detection-using-React/static/js/runtime-main.889f3419.js",
+    "runtime-main.js.map": "/Object-Detection-using-React/static/js/runtime-main.889f3419.js.map",
+    "static/js/2.08386fc7.chunk.js": "/Object-Detection-using-React/static/js/2.08386fc7.chunk.js",
+    "static/js/2.08386fc7.chunk.js.map": "/Object-Detection-using-React/static/js/2.08386fc7.chunk.js.map",
+    "static/js/3.81b2a024.chunk.js": "/Object-Detection-using-React/static/js/3.81b2a024.chunk.js",
+    "static/js/3.81b2a024.chunk.js.map": "/Object-Detection-using-React/static/js/3.81b2a024.chunk.js.map",
+    "index.html": "/Object-Detection-using-React/index.html",
+    "static/css/main.5a92d424.chunk.css.map": "/Object-Detection-using-React/static/css/main.5a92d424.chunk.css.map",
+    "static/js/2.08386fc7.chunk.js.LICENSE.txt": "/Object-Detection-using-React/static/js/2.08386fc7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Object-Detection-using-React/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.889f3419.js",
+    "static/js/2.08386fc7.chunk.js",
+    "static/css/main.5a92d424.chunk.css",
+    "static/js/main.c915e717.chunk.js"
+  ]
+}
